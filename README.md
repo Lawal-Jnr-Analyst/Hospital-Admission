@@ -114,7 +114,7 @@ https://github.com/Lawal-Jnr-Analyst/Hospital-Admissions.git
 
 ## 📷 Preview
 
-![Hospital Admissions Dashboard](https://github.com/Lawal-Jnr-Analyst/ClinicalPulse-Analytics/blob/main/ClinicalPulse_Analytics.jpg)
+![Hospital Admissions Dashboard](https://github.com/Lawal-Jnr-Analyst/Hospital-Admission/blob/main/hospital%20admission.jpg)
 
 ---
 
